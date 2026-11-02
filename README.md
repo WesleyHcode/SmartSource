@@ -26,6 +26,9 @@ groq, openai/gpt-oss-120b
 - Comparison between different sources (IN PROGRESS). 
 - Auto citing feature (IN PROGRESS). 
 
+<img width="1043" height="522" alt="Screenshot 2026-11-01 at 10 55 17 PM" src="https://github.com/user-attachments/assets/3efa336f-9320-4c3c-8f5a-5acd95d95c6f" />
+An example of a news article
+
 ## Bug fixing and other problems:
 - AI is sometimes wrong, may need some more instruction
 
